@@ -13,9 +13,12 @@
 
 <h3 align="left">Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,nodejs,express,bash,bootstrap,mongodb,git,github,postman,unity,vscode,xd,illustrator,autocad,latex)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cs,nodejs,express,bash,bootstrap,mongodb,git,github,postman,unity,vscode,xd,illustrator,autocad,latex&perline=5" />
+  </a>
+</p>
 
-</svg>
 
 <h2 align="center">📈STATS📈</h2>
 <details><summary>⚡ LeetCode Stats</summary>
