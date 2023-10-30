@@ -27,8 +27,8 @@
 </details>
 
 <details><summary>⚡ GitHub Stats</summary>
-
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nico188f&show_icons=true&theme=dark)
+<h4>Commits:</h4>
 ![snake gif](https://github.com/nico188f/nico188f/blob/output/github-contribution-grid-snake.gif)
 
 </details>
