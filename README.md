@@ -29,7 +29,6 @@
 <details><summary>⚡ GitHub Stats</summary>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nico188f&show_icons=true&theme=dark)
-<h4>Commits:</h4>
 
 
 </details>
