@@ -15,20 +15,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=FFFFFF&background=FFFFFF00&repeat=false&random=true&width=435&lines=Skills%3A" alt="Typing SVG" />
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cs,nodejs,express,bash,bootstrap,mongodb,git,github,postman,unity,vscode,xd,illustrator,autocad,latex&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,react,cs,typescript,nodejs,bun,express,vite,bash,bootstrap,mongodb,git,github,postman,unity,vscode,xd,illustrator,autocad,latex&perline=5" />
 </p>
-
-
-<h2 align="center">📈STATS📈</h2>
-<details><summary>⚡ LeetCode Stats</summary>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/nico188f?theme=nord&font=IBM%20Plex%20Mono)
-
-</details>
-
-<details><summary>⚡ GitHub Stats</summary>
-
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nico188f&show_icons=true&theme=dark)
-
-
-</details>
