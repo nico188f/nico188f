@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Nicolaj Blach Jensen</h1>
+1<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />, I'm Nicolaj Blach Jensen</h1>
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=900&size=45&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=1100&height=91&lines=Im+a+passionate+Software+Engineer,;studying+at+Aalborg+University+in+Denmark,;and working at KMD!" alt="Typing SVG" />
 
 - 🌱 I’m currently looking into **.Net**!
@@ -15,5 +15,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=FFFFFF&background=FFFFFF00&repeat=false&random=true&width=435&lines=Skills%3A" alt="Typing SVG" />
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,react,cs,typescript,nodejs,bun,dotnet,express,vite,bash,bootstrap,mongodb,git,github,postman,unity,vscode,xd,illustrator,autocad,latex&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,react,cs,typescript,nodejs,bun,dotnet,express,vite,bash,bootstrap,mongodb,git,github,postman,unity,vscode,figma,xd,illustrator,autocad,latex&perline=5" />
 </p>
