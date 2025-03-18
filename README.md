@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently looking deeper into **.Net**!
 
-- 📫 How to reach me **me@nicolaj.dev**
+- 📫 How to reach me: **me@nicolaj.dev**
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=FFFFFF&background=FFFFFF00&repeat=false&random=true&width=435&lines=Socials%3A" alt="Typing SVG" />
 
