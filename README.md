@@ -5,13 +5,6 @@
 
 - 📫 How to reach me: **me@nicolaj.dev**
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=FFFFFF&background=FFFFFF00&repeat=false&random=true&width=435&lines=Socials%3A" alt="Typing SVG" />
-
-<p align="center">
-<a href="https://twitter.com/nicolajblach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicolajblach" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nicolaj-blach-jensen-519b30256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaj blach jensen" height="30" width="40" /></a>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=FFFFFF&background=FFFFFF00&repeat=false&random=true&width=435&lines=Skills%3A" alt="Typing SVG" />
 
 <p align="center">
